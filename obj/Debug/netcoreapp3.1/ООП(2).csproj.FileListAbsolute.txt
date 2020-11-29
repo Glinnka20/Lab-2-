@@ -1,0 +1,13 @@
+C:\Users\dude\source\repos\ООП(2)\ООП(2)\bin\Debug\netcoreapp3.1\ООП(2).exe
+C:\Users\dude\source\repos\ООП(2)\ООП(2)\bin\Debug\netcoreapp3.1\ООП(2).deps.json
+C:\Users\dude\source\repos\ООП(2)\ООП(2)\bin\Debug\netcoreapp3.1\ООП(2).runtimeconfig.json
+C:\Users\dude\source\repos\ООП(2)\ООП(2)\bin\Debug\netcoreapp3.1\ООП(2).runtimeconfig.dev.json
+C:\Users\dude\source\repos\ООП(2)\ООП(2)\bin\Debug\netcoreapp3.1\ООП(2).dll
+C:\Users\dude\source\repos\ООП(2)\ООП(2)\bin\Debug\netcoreapp3.1\ООП(2).pdb
+C:\Users\dude\source\repos\ООП(2)\ООП(2)\obj\Debug\netcoreapp3.1\ООП(2).csprojAssemblyReference.cache
+C:\Users\dude\source\repos\ООП(2)\ООП(2)\obj\Debug\netcoreapp3.1\ООП(2).AssemblyInfoInputs.cache
+C:\Users\dude\source\repos\ООП(2)\ООП(2)\obj\Debug\netcoreapp3.1\ООП(2).AssemblyInfo.cs
+C:\Users\dude\source\repos\ООП(2)\ООП(2)\obj\Debug\netcoreapp3.1\ООП(2).csproj.CoreCompileInputs.cache
+C:\Users\dude\source\repos\ООП(2)\ООП(2)\obj\Debug\netcoreapp3.1\ООП(2).dll
+C:\Users\dude\source\repos\ООП(2)\ООП(2)\obj\Debug\netcoreapp3.1\ООП(2).pdb
+C:\Users\dude\source\repos\ООП(2)\ООП(2)\obj\Debug\netcoreapp3.1\ООП(2).genruntimeconfig.cache
